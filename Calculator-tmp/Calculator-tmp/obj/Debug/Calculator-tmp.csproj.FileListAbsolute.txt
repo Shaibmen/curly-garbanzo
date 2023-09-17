@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\bin\Debug\Calculator-tmp.exe.config
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\bin\Debug\Calculator-tmp.exe
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\bin\Debug\Calculator-tmp.pdb
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\obj\Debug\Calculator-tmp.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\obj\Debug\Calculator-tmp.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\obj\Debug\Calculator-tmp.exe
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Calculator-tmp\Calculator-tmp\obj\Debug\Calculator-tmp.pdb
