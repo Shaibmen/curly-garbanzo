@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\bin\Debug\Progi.exe.config
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\bin\Debug\Progi.exe
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\bin\Debug\Progi.pdb
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\obj\Debug\Progi.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\obj\Debug\Progi.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\obj\Debug\Progi.exe
+C:\Users\Миша\Projects\ProjectC\curly-garbanzo\Progi\Progi\obj\Debug\Progi.pdb
